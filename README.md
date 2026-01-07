@@ -188,5 +188,5 @@ Created by [09Namratakhade](https://github.com/09Namratakhade), [abhishekmallav]
 
 Let me know if you want to add anything specific or need a section tailored further!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/namrata-k-758922226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namrata-k-758922226)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namratakhade2005@gmail.com?subject=Hello%20There&body=Just%20wanted%20to%20say%20hi!)
